@@ -36,3 +36,6 @@ data/processed/
 *.bbl
 *.blg
 *.synctex.gz
+
+# AI
+Codex.md
