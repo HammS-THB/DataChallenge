@@ -1,0 +1,2 @@
+model,mean_cv_accuracy,std_cv_accuracy,mean_cv_error,mean_train_accuracy,mean_fit_time,mean_score_time
+XGBClassifier,0.9052879397563489,0.04914670995620926,0.09471206024365109,1.0,70.49839968681336,0.058818387985229495
