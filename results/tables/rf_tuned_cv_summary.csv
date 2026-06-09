@@ -1,0 +1,2 @@
+model,mean_cv_accuracy,std_cv_accuracy,mean_cv_error,mean_train_accuracy,mean_fit_time,mean_score_time
+RandomForestClassifier_tuned,0.9044146179305482,0.029998227418906488,0.09558538206945177,0.9993236299701312,2.266005039215088,0.3522173404693604

@@ -1,0 +1,2 @@
+model,test_accuracy,test_error,n_test_observations
+LogReg C=0.1,0.9515151515151515,0.048484848484848464,1485

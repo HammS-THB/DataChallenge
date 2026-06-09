@@ -1,0 +1,2 @@
+model,test_accuracy,test_error,n_test_observations
+RandomForestClassifier_tuned,0.9595959595959596,0.04040404040404044,1485
