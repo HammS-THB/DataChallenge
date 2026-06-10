@@ -1,0 +1,2 @@
+model,test_accuracy,test_error,n_test_observations,n_correct,n_wrong
+XGBClassifier_best,0.9643097643097643,0.03569023569023566,1485,1432,53
