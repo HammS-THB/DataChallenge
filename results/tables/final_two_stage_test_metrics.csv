@@ -1,0 +1,2 @@
+model,test_accuracy,test_error,n_test_observations,n_correct,n_wrong,threshold
+Final_TwoStage_SoftVoting_PolySVM_XGBoost_plus_PolySVM_Special,0.9764309764309764,0.023569023569023573,1485,1450,35,-0.35
